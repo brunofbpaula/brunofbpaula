@@ -1,9 +1,11 @@
-### Bruno de Paula
+## Bruno de Paula
 Here you will find a collection of projects I've built during my coding journey, which showcase my interests, skills and creativity.
 
 - 🔭 I’m currently working on Software Development and Data Analysis
 - 😶‍🌫️ I’m currently learning Cloud Computing
 - ⚡ Fun fact: My favorite coffee drink is Starbucks' Hazelnut Frappuccino
+
+<hr>
 
 My stack:
 <br><br>
@@ -16,5 +18,5 @@ My stack:
 
 Don't hesitate to contact me.
 <br><br>
-[![LinkedIn](https://img.shields.io/badge/Bruno_de_Paula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-fb-paula/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-fb-paula/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofbpaula@gmail.com)
