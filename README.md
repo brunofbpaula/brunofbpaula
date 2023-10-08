@@ -7,12 +7,12 @@ Here you will find a collection of repositories I've built during my coding jour
 
 Don't hesitate to contact me.
 <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fda8ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bruno-fb-paula/)
-[![Gmail](https://img.shields.io/badge/Gmail-fda8ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:brunofbpaula@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-894983?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-fb-paula/)
+[![Gmail](https://img.shields.io/badge/Gmail-894983?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofbpaula@gmail.com)
 
 <hr>
 
-My stack:
+- My stack:
 <br><br>
 ![Python](https://img.shields.io/badge/Python-54096c?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-54096c?style=for-the-badge&logo=openjdk&logoColor=white)
