@@ -14,7 +14,7 @@ Don't hesitate to contact me.
 
 My stack:
 <br><br>
-![Python](https://img.shields.io/badge/Python-fda8ff?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-54096c?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-54096c?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-54096c?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-54096c?style=for-the-badge&logo=react&logoColor=white)
