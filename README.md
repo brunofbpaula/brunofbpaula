@@ -5,7 +5,7 @@ Here you will find a collection of repositories I've built during my coding jour
 - 😶‍🌫️ I’m currently learning Cloud Computing and Google Cloud Platform
 - ⚡ Fun fact: My favorite coffee drink is Starbucks' Hazelnut Frappuccino
 
-Don't hesitate to contact me.
+Don't hesitate to contact me. Reach me at:
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-894983?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-fb-paula/)
 [![Gmail](https://img.shields.io/badge/Gmail-894983?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofbpaula@gmail.com)
@@ -20,3 +20,4 @@ Don't hesitate to contact me.
 ![React](https://img.shields.io/badge/React-54096c?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-54096c?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-54096c?style=for-the-badge&logo=Oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-54096c?style=for-the-badge&logo=mongodb&logoColor=white)
