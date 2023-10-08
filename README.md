@@ -6,7 +6,7 @@ Here you will find a collection of projects I've built during my coding journey,
 - ⚡ Fun fact: My favorite coffee drink is Starbucks' Hazelnut Frappuccino
 
 My stack:
-<br>
+<br><br>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,6 +15,6 @@ My stack:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 Don't hesitate to contact me.
-<br>
+<br><br>
 [![LinkedIn](https://img.shields.io/badge/Bruno_de_Paula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-fb-paula/)
-[![Gmail](https://img.shields.io/badge/brunofbpaula27%40gmail.com-552f96?style=for-the-badge&logo=gmail&logoColor=black)](mailto:brunofbpaula@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofbpaula@gmail.com)
