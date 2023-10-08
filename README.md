@@ -12,7 +12,8 @@ Don't hesitate to contact me. Reach me at:
 
 <hr>
 
-### My stack:
+<h2>My stack:</h2>
+
 <br><br>
 ![Python](https://img.shields.io/badge/Python-54096c?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-54096c?style=for-the-badge&logo=openjdk&logoColor=white)
