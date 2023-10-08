@@ -7,16 +7,16 @@ Here you will find a collection of repositories I've built during my coding jour
 
 Don't hesitate to contact me.
 <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-fb-paula/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofbpaula@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fda8ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bruno-fb-paula/)
+[![Gmail](https://img.shields.io/badge/Gmail-fda8ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:brunofbpaula@gmail.com)
 
 <hr>
 
 My stack:
 <br><br>
 ![Python](https://img.shields.io/badge/Python-fda8ff?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fda8ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fda8ff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=fda8ff)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fda8ff)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=fda8ff)
+![Java](https://img.shields.io/badge/Java-54096c?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-54096c?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-54096c?style=for-the-badge&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-54096c?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-54096c?style=for-the-badge&logo=Oracle&logoColor=white)
