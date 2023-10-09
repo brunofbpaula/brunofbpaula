@@ -16,8 +16,9 @@ Don't hesitate to contact me. Reach me at:
 
 ![Python](https://img.shields.io/badge/Python-54096c?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-54096c?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-54096c?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-54096c?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-54096c?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-54096c?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-54096c?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-54096c?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-54096c?style=for-the-badge&logo=docker&logoColor=white)
