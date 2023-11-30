@@ -2,7 +2,7 @@
 Here you will find a collection of repositories I've built during my coding journey. It reflects my interests, skills and creativity.
 
 - 🧠 I’m proficient at Software Development and Data Analysis
-- 😶‍🌫️ I’m currently learning Cloud Computing and Google Cloud Platform
+- 😶‍🌫️ I’m currently learning more about Google Cloud Platform and React
 - ⚡ Fun fact: My favorite coffee drink is Starbucks' Hazelnut Frappuccino
 
 Don't hesitate to contact me. Reach me at:
