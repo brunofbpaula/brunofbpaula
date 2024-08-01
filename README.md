@@ -22,4 +22,8 @@ Don't hesitate to contact me. Reach me at:
 ![Oracle](https://img.shields.io/badge/Oracle-54096c?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-54096c?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-54096c?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-54096c?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-54096c?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-54096c?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-54096c?style=for-the-badge&logo=linux&logoColor=white)
+
