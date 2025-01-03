@@ -1,8 +1,8 @@
 # Bruno de Paula
 Here you will find a collection of repositories I've built during my coding journey. It reflects my interests, skills and creativity.
 
-- 🧠 I’m proficient at Software Development and Data Analysis
-- 💻 Presently working at Auren Energia as a Digital Innovation Intern
+- 🧠 I’m proficient at Software Development
+- 💻 Presently working at Auren Energia as a Software Engineer
 - 😶‍🌫️ I’m currently learning more about solution architecture
 - ⚡ Fun fact: My favorite coffee drink is Starbucks' Hazelnut Frappuccino
 
