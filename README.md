@@ -2,8 +2,9 @@
 Here you will find a collection of repositories I've built during my coding journey. It reflects my interests, skills and creativity.
 
 - 🧠 I’m proficient at Software Development
+- 🎓 Graduated in Systems Analysis and Development
 - 💻 Presently working at Auren Energia as a Software Engineer
-- 😶‍🌫️ I’m currently learning more about solution architecture
+- 😶‍🌫️ I’m currently learning more about mathematics and algorithms
 - ⚡ Fun fact: My favorite coffee drink is Starbucks' Hazelnut Frappuccino
 
 Don't hesitate to contact me. Reach me at:
@@ -23,6 +24,7 @@ Don't hesitate to contact me. Reach me at:
 ![MongoDB](https://img.shields.io/badge/MongoDB-54096c?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-54096c?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-54096c?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-54096c?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-54096c?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-54096c?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-54096c?style=for-the-badge&logo=linux&logoColor=white)
